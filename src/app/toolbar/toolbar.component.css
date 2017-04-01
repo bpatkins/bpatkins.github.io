@@ -27,3 +27,14 @@
 .main-toolbar .fa-bars:hover {
     cursor: pointer;
 }
+
+.main-toolbar .contact-icons a {
+    color: #fff;
+    text-decoration: none;
+}
+
+@media only screen and (max-width: 800px) {
+    .main-toolbar .site-name {
+        display: none;
+    }
+}
