@@ -1,5 +1,6 @@
 #File Directories
 node_modules/*
+dist/*
 
 # Windows image file caches
 Thumbs.db
